@@ -1,3 +1,28 @@
+DEPRECATED
+==========
+
+MarqueeLabel-ObjC is the Objective-C version of [MarqueeLabel](https://github.com/cbpowell/MarqueeLabel), from which the Objective-C codebase has been removed.
+
+This has been retained so that the Objective-C code is still available as a Cocoapod/Carthage package for those who wish to use it.
+
+### Cocoapods
+Use the MarqueeLabel-ObjC pod. Replace `pod 'MarqueeLabel'` with `pod 'MarqueeLabel-ObjC'`.
+
+### Carthage
+Replace `github "cbpowell/MarqueeLabel"` with `github "cbpowell/MarqueeLabel-ObjC"`.
+
+
+## Future Updates
+This repo will receive PATCH updates (i.e. 0.0.x) for any identified issues on the 3.2.x major version branch. All future development will occur on the [MarqueeLabel repo](https://github.com/cbpowell/MarqueeLabel) in the Swift language.
+
+
+
+
+
+
+
+
+
 Overview
 ============
 
